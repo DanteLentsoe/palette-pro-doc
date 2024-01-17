@@ -28,3 +28,4 @@ For any queries or support related to Palette Pro, please reach out via our [Con
 
 ## Acknowledgements
 Created with ❤️ by [Dante Lentsoe](https://github.com/dantelentsoe).
+![Uploading Screenshot 2024-01-17 at 17.19.07.png…]()
