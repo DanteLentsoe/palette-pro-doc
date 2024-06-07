@@ -16,7 +16,7 @@ Palette Pro is primarily aimed at UX designers, offering them a straightforward 
 ## Getting Started
 To begin using Palette Pro:
 
-1. Navigate to [Palette Pro](https://platte-pro.vercel.app/).
+1. Navigate to [Palette Pro](https://palette-pro.vercel.app/).
 2. Log in using Times Square Clerk authentication.
 3. Start by uploading an image or exploring the playground.
 
